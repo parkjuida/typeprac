@@ -1,0 +1,2 @@
+# typeprac
+typescript practice
